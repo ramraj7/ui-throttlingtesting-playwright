@@ -1,0 +1,25 @@
+{
+  "totalFlowTime": "6637.12",
+  "steps": [
+    {
+      "step": "Login",
+      "time": 5900.739700000001
+    },
+    {
+      "step": "Browse Products",
+      "time": 102.26410000000033
+    },
+    {
+      "step": "Add to Cart",
+      "time": 130.8176000000003
+    },
+    {
+      "step": "Checkout",
+      "time": 395.3719000000001
+    },
+    {
+      "step": "Order Confirmation",
+      "time": 107.92900000000009
+    }
+  ]
+}

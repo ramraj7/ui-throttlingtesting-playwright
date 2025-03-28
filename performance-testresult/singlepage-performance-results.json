@@ -1,0 +1,1117 @@
+{
+  "resources": [
+    {
+      "name": "https://m.media-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,51FIeTurRAL.css,31fFxDf00KL.css,11j2+ObrspL.css,01qDClimA1L.css,01pOTCa2wPL.css,413Vvv3GONL.css,11TIuySqr6L.css,01Rw4F+QU6L.css,11JJsNcqOIL.css,01J3raiFJrL.css,01IdKcBuAdL.css,014QJx7nWqL.css,21Otytu1xYL.css,01Sv7-fQIGL.css,51Cfshh2sJL.css,01XPHJk60-L.css,11ChJlzZQoL.css,01UgxIH-BSL.css,01fxuupJToL.css,21+W7u4fDzL.css,01oATFSeEjL.css,21RWaJb6t+L.css,11I+YZzE7kL.css,211Xmr7zN2L.css,01CFUgsA-YL.css,31WWobXdJQL.css,11PDZ29p-PL.css,111bsezNMhL.css,11tNhCU--0L.css,11msBd9oOTL.css,11BO1RWH3kL.css,011ylpySXkL.css,21Dzvx3cZoL.css,11Wb9slw7JL.css,01uDrkI-EcL.css,215Q9RsWvdL.css,113EFChyAjL.css,11hvENnYNUL.css,11Qek6G6pNL.css,01890+Vwk8L.css,014VAMpg+ZL.css,01qiwJ7qDfL.css,21TAMzcrOKL.css,016mfgi+D2L.css,01gU3ljx0fL.css,21l8QuSB5IL.css,013-xYw+SRL.css_.css?AUIClients/AmazonUI#us.not-trident",
+      "duration": "453.50"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/I/41oqEIFYdwL._RC%7C71rYU5+WddL.css,51JyeimZRFL.css,21p9CgkFtzL.css,01FcI3FsaiL.css,21Hc1s0-E4L.css,31YZpDCYJPL.css,21DwGGPS1eL.css,41rsT0y+7tL.css,11Wa5gEoKhL.css,31K0jc2KvHL.css,01H8CHB5aiL.css,21KQnzhmfTL.css,41yKpEQVJkL.css,41FQVcfy5lL.css_.css?AUIClients/NavDesktopUberAsset#desktop.language-en.us.488657-T2.1089549-T1.310484-T1.1179039-T1.1168668-C",
+      "duration": "453.40"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/I/41945FR1dZL.css?AUIClients/AmazonGatewayAuiAssets#1011660-T1",
+      "duration": "455.20"
+    },
+    {
+      "name": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:144-5663924-6239067:P6XMJ4E6NX7R59R70SZB$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DP6XMJ4E6NX7R59R70SZB:0",
+      "duration": "1949.70"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/G/01/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546805360_.png",
+      "duration": "358.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61e684OrhjL._SX1500_.jpg",
+      "duration": "507.50"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Headset_1x._SY116_CB667159060_.jpg",
+      "duration": "467.10"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Keyboard_1x._SY116_CB667159063_.jpg",
+      "duration": "532.10"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mouse_1x._SY116_CB667159063_.jpg",
+      "duration": "595.20"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Chair_1x._SY116_CB667159060_.jpg",
+      "duration": "645.10"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2023/img/Consumer_Electronics/XCM_CUTTLE_1555947_2997386_379x304_1X_en_US._SY304_CB594429819_.jpg",
+      "duration": "761.90"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/Stores-Gaming/FinalGraphics/Fuji_Gaming_store_Dashboard_card_1x_EN._SY304_CB564799420_.jpg",
+      "duration": "689.00"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/HomeStorage_1x._SY116_CB563137408_.jpg",
+      "duration": "750.50"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/CleaningTool_1x._SY116_CB563137408_.jpg",
+      "duration": "949.50"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/Bedding_1x._SY116_CB563137408_.jpg",
+      "duration": "750.50"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/HomeDecor_1x._SY116_CB563137408_.jpg",
+      "duration": "758.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/313wAT6Iy2L._SY160_.jpg",
+      "duration": "469.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/21W7-lndINL._SY75_.jpg",
+      "duration": "505.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/21B-NkA9p-L._SY75_.jpg",
+      "duration": "542.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/217GQ1a2QzL._SY75_.jpg",
+      "duration": "589.60"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2022/SITE_FLIPS/SPR_22/GW/DQC/DQC_APR_TBYB_W_BOTTOMS_1x._SY116_CB624172947_.jpg",
+      "duration": "804.60"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2022/SITE_FLIPS/SPR_22/GW/DQC/DQC_APR_TBYB_W_TOPS_1x._SY116_CB623353881_.jpg",
+      "duration": "805.70"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2022/SITE_FLIPS/SPR_22/GW/DQC/DQC_APR_TBYB_W_DRESSES_1x._SY116_CB623353881_.jpg",
+      "duration": "815.50"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2022/SITE_FLIPS/SPR_22/GW/DQC/DQC_APR_TBYB_W_SHOES_1x._SY116_CB624172947_.jpg",
+      "duration": "811.50"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2024/HomeLifestyle/HomeSummerFlip/Homepage/QuadCards/Home_Flip_Summer_2024_315_HP_NewArrivals_QuadCard_D_01_1x._SY116_CB555960040_.jpg",
+      "duration": "873.00"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2024/HomeLifestyle/HomeSummerFlip/Homepage/QuadCards/Home_Flip_Summer_2024_316_HP_NewArrivals_QuadCard_D_02_1x._SY116_CB555960040_.jpg",
+      "duration": "880.80"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2024/HomeLifestyle/HomeSummerFlip/Homepage/QuadCards/Home_Flip_Summer_2024_317_HP_NewArrivals_QuadCard_D_03_1x._SY116_CB555960040_.jpg",
+      "duration": "881.30"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2024/HomeLifestyle/HomeSummerFlip/Homepage/QuadCards/Home_Flip_Summer_2024_318_HP_NewArrivals_QuadCard_D_04_1x._SY116_CB555960040_.jpg",
+      "duration": "881.50"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2025/EidAlFitr/Fuji_Eid_al-Fitr_Dashboard_card_1x_EN._SY304_CB546781458_.jpg",
+      "duration": "955.20"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/launchpad/2023/Gateway/January/DesktopQuadCat_186x116_home_B08RCCP3HV_01.23._SY116_CB619238939_.jpg",
+      "duration": "955.80"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/launchpad/2023/Gateway/January/DesktopQuadCat_186x116_kitchen_B0126LMDFK_01.23._SY116_CB619238939_.jpg",
+      "duration": "966.90"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/launchpad/2023/Gateway/January/DesktopQuadCat_186x116_LP-HP_B08MYX5Q2W_01.23._SY116_CB619238939_.jpg",
+      "duration": "968.00"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/launchpad/2023/Gateway/January/DesktopQuadCat_186x116_health-beauty_B07662GN57_01.23._SY116_CB619238939_.jpg",
+      "duration": "1011.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61nHUVwR65L._AC_SY200_.jpg",
+      "duration": "568.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/91FlivXjBCL._AC_SY200_.jpg",
+      "duration": "568.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71feEBm3OXL._AC_SY200_.jpg",
+      "duration": "590.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61sHYPxrAzL._AC_SY200_.jpg",
+      "duration": "629.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81+BZP2zUHL._AC_SY200_.jpg",
+      "duration": "629.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/51GtiTNHXrL._AC_SY200_.jpg",
+      "duration": "647.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81ANaVZk5LL._AC_SY200_.jpg",
+      "duration": "696.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71wpE+ZIehL._AC_SY200_.jpg",
+      "duration": "743.70"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81GWiimZ7QL._AC_SY200_.jpg",
+      "duration": "744.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81mdc6bcbNL._AC_SY200_.jpg",
+      "duration": "692.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81LLoGOJ9RL._AC_SY200_.jpg",
+      "duration": "701.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81NaJ5Xd6SL._AC_SY200_.jpg",
+      "duration": "710.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/715w7purSbL._AC_SY200_.jpg",
+      "duration": "750.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71nvKD9L-iL._AC_SY200_.jpg",
+      "duration": "761.00"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Aug/WomenWatches_1x._SY116_CB564394432_.jpg",
+      "duration": "960.20"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Aug/MenWatches_1x._SY116_CB564394432_.jpg",
+      "duration": "1056.10"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Aug/GirlWatches_1x._SY116_CB564394432_.jpg",
+      "duration": "1058.00"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Aug/Smartphone_1x._SY116_CB566164844_.jpg",
+      "duration": "1066.30"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Aug/BoyWatches_1x._SY116_CB564394432_.jpg",
+      "duration": "1058.90"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Aug/Watches_1x._SY116_CB566164844_.jpg",
+      "duration": "1066.80"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Aug/Headphone_1x._SY116_CB566164844_.jpg",
+      "duration": "1117.60"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Aug/Tablet_1x._SY116_CB566164844_.jpg",
+      "duration": "1119.70"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Make-up._SY116_CB558654384_.jpg",
+      "duration": "1129.10"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Brushes._SY116_CB558654384_.jpg",
+      "duration": "1129.00"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Sponges._SY116_CB558654384_.jpg",
+      "duration": "1141.70"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Mirrors._SY116_CB558654384_.jpg",
+      "duration": "1174.60"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Apparel_1x._SY116_CB667159060_.jpg",
+      "duration": "1171.80"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Hat_1x._SY116_CB667159060_.jpg",
+      "duration": "1194.80"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Figure_1x._SY116_CB667159060_.jpg",
+      "duration": "1195.20"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mug_1x._SY116_CB667159063_.jpg",
+      "duration": "1210.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/514aYTw7P7L._AC_SY200_.jpg",
+      "duration": "747.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61J0e7d0GEL._AC_SY200_.jpg",
+      "duration": "751.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61KePAu1JAL._AC_SY200_.jpg",
+      "duration": "803.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81tfqjSPKtL._AC_SY200_.jpg",
+      "duration": "805.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/718xN2kSZ1L._AC_SY200_.jpg",
+      "duration": "808.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61MqSic7o9L._AC_SY200_.jpg",
+      "duration": "810.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71scVzee-zL._AC_SY200_.jpg",
+      "duration": "819.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/710yBz6hfUL._AC_SY200_.jpg",
+      "duration": "819.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/51CtR+quteL._AC_SY200_.jpg",
+      "duration": "849.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71S4-NjoTDL._AC_SY200_.jpg",
+      "duration": "868.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71WGsXRgQrL._AC_SY200_.jpg",
+      "duration": "883.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/91yuQpw++mL._AC_SY200_.jpg",
+      "duration": "887.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71ttt0pVlCL._AC_SY200_.jpg",
+      "duration": "902.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71SDZVqu3+L._AC_SY200_.jpg",
+      "duration": "905.10"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAUOct2024/Gaming_zone_1x._SY304_CB540253513_.jpg",
+      "duration": "1102.10"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Desktops._SY116_CB558654384_.jpg",
+      "duration": "1104.60"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_laptop._SY116_CB558654384_.jpg",
+      "duration": "1119.80"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Hard_Drives._SY116_CB558654384_.jpg",
+      "duration": "1120.20"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Accessories._SY116_CB558654384_.jpg",
+      "duration": "1141.20"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAUOct2024/Coffee_Machine._SY116_CB545166645_.jpg",
+      "duration": "1378.50"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAUOct2024/Multi-Cooker_1x._SY116_CB545166645_.jpg",
+      "duration": "1168.50"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAUOct2024/VaccumCleaner_1x._SY116_CB545166645_.jpg",
+      "duration": "1175.60"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAUOct2024/Iron_1x._SY116_CB545166645_.jpg",
+      "duration": "1175.80"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Kitchen._SY116_CB558654384_.jpg",
+      "duration": "1325.20"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Home_decor._SY116_CB558654384_.jpg",
+      "duration": "1332.10"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Dining._SY116_CB558654384_.jpg",
+      "duration": "1352.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61e8khMT3UL._AC_SY200_.jpg",
+      "duration": "776.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71nVIiWEcgL._AC_SY200_.jpg",
+      "duration": "780.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/414C25OyjML._AC_SY200_.jpg",
+      "duration": "810.40"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Smart_home._SY116_CB558654384_.jpg",
+      "duration": "1343.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/51WJiz7-twL._AC_SY200_.jpg",
+      "duration": "914.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/51IFiSD+kCL._AC_SY200_.jpg",
+      "duration": "916.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/6159wJyiiKL._AC_SY200_.jpg",
+      "duration": "915.70"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71b8fh-dQ4L._AC_SY200_.jpg",
+      "duration": "922.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/5164giE9fFL._AC_SY200_.jpg",
+      "duration": "922.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61I0wbY1FUL._AC_SY200_.jpg",
+      "duration": "922.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71329CVoVDL._AC_SY200_.jpg",
+      "duration": "978.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71LOYxu6SAL._AC_SY200_.jpg",
+      "duration": "986.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81ke6l1G9ZL._AC_SY200_.jpg",
+      "duration": "993.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81JmVgvOmCL._AC_SY200_.jpg",
+      "duration": "993.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71M6a8SHCeL._AC_SY200_.jpg",
+      "duration": "998.70"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2024/CE/GamingWeek24/Homepage/DQC/CE24_SUM_GW_DQC_NW_GamingWeek_PC_v2_1x._SY116_CB558844445_.jpg",
+      "duration": "1601.70"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2024/CE/GamingWeek24/Homepage/DQC/CE24_SUM_GW_DQC_NE_GamingWeek_Xbox_v2_1x._SY116_CB558844445_.jpg",
+      "duration": "1415.40"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2024/CE/GamingWeek24/Homepage/DQC/CE24_SUM_GW_DQC_SW_GamingWeek_Sony_v2_1x._SY116_CB558844445_.jpg",
+      "duration": "1419.70"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2024/CE/GamingWeek24/Homepage/DQC/CE24_SUM_GW_DQC_SE_GamingWeek_Nintendo_v2_1x._SY116_CB558844445_.jpg",
+      "duration": "1421.70"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/Skincare_1x._SY116_CB563150139_.jpg",
+      "duration": "1444.90"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/Makeup_1x._SY116_CB563150139_.jpg",
+      "duration": "1469.90"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/Nail_1x._SY116_CB563150139_.jpg",
+      "duration": "1479.90"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/Fragrance_1x._SY116_CB563150139_.jpg",
+      "duration": "1479.40"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Playground_sets._SY116_CB558654384_.jpg",
+      "duration": "1507.40"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_STEM_toys_or_learning_toys._SY116_CB558654384_.jpg",
+      "duration": "1546.00"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Action_figure._SY116_CB558654384_.jpg",
+      "duration": "1546.60"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/DskBTFQuadCards/Fuji_BTF_Quad_Cards_1x_Pretend_Play_Toys._SY116_CB558654384_.jpg",
+      "duration": "1547.20"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAUOct2024/RideOn._SY116_CB545223412_.jpg",
+      "duration": "1558.30"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAUOct2024/BuildingConstruction._SY116_CB545223412_.jpg",
+      "duration": "1617.10"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAUOct2024/DollDoll_House._SY116_CB545223412_.jpg",
+      "duration": "1616.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61o5Q8IIq4L._AC_SY200_.jpg",
+      "duration": "996.70"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAUOct2024/SwimmingPool._SY116_CB545223412_.jpg",
+      "duration": "1617.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/91ZVf3kNrcL._AC_SY200_.jpg",
+      "duration": "1045.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81q6ckUXE5L._AC_SY200_.jpg",
+      "duration": "1053.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71ihGxMQEBL._AC_SY200_.jpg",
+      "duration": "1053.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/612VMVUDpvL._AC_SY200_.jpg",
+      "duration": "1061.70"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71HRBdq-EAL._AC_SY200_.jpg",
+      "duration": "1065.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71dn+hvNIOL._AC_SY200_.jpg",
+      "duration": "1061.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/G/01/personalization/ybh/loading-4x-gray._CB485916920_.gif",
+      "duration": "1115.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery",
+      "duration": "721.10"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/I/01rGP6HIADL.js?AUIClients/GenericObservableJS",
+      "duration": "449.90"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/I/11lCLXBMk5L._RC%7C61YBxGSpjrL.js_.js?AUIClients/AmazonGatewayAuiAssets",
+      "duration": "546.50"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/I/31BfWGZHq4L.js?AUIClients/AmazonGatewayHerotatorJS#1117426-T1",
+      "duration": "373.20"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/I/51na2k2njbL._RC%7C71VDdDkwoRL.js,01QvReFeJyL.js,01VfhmbHmKL.js,71D37ZK8QYL.js,01cZ21lATAL.js,01bAfFgS7JL.js,01A2AtmCtlL.js,41jBieyCvYL.js,01wXnKULArL.js,01+pnQJuQ0L.js,21U65B1-I6L.js,41zFN9UysJL.js,51HrkAbbpLL.js,31XO9BO1OrL.js,11lw6J7z8iL.js,31NSDarX4TL.js,01VYGE8lGhL.js_.js?AUIClients/NavDesktopUberAsset#desktop.language-en.us.803398-T1.1089549-T1.1174741-T1.1089717-T1.948355-T1.310484-T1.1179039-T1",
+      "duration": "1176.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/G/01/csm/showads.v2.js?bannerid=-ad-sidebar.",
+      "duration": "264.70"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/I/11+d9I1l9AL.js?xcp",
+      "duration": "295.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/11zuylp74DL._RC%7C11Y+5x+kkTL.js,51F3LXOLEtL.js,11EeeaacI2L.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21u+kGQyRqL.js,012FVc3131L.js,11aD5q6kNBL.js,11rRjDLdAVL.js,51zH7YD-TsL.js,11nAhXzgUmL.js,11dIAzUNpxL.js,1110g-SvlBL.js,116PwN2VXHL.js,21+WA5wfjfL.js,0190vxtlzcL.js,51xvEQZx5oL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,01ASnt2lbqL.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,31N+6dLod0L.js,01tvglXfQOL.js,11+FwJUUPNL.js,014gnDeJDsL.js,11vb6P5C5AL.js,015+pUPweLL.js_.js?AUIClients/AmazonUI#372963-T1",
+      "duration": "318.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/51tQKx1B9KL.js?AUIClients/CardJsRuntimeBuzzCopyBuild",
+      "duration": "346.00"
+    },
+    {
+      "name": "https://www.amazon.com/ah/ajax/counter?ctr=desktop_ajax_atf&exp=1743149821502&rId=P6XMJ4E6NX7R59R70SZB&mkId=ATVPDKIKX0DER&h=be036790cbcbed943448c1651c948f660c566f2ac5fe68f84adf5e16c5e00a17",
+      "duration": "736.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71yHM6kK-zL._AC_SY200_.jpg",
+      "duration": "274.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81P0rn0q9HL._AC_SY200_.jpg",
+      "duration": "309.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/716MZFPJgjL._AC_SY200_.jpg",
+      "duration": "323.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/41-Al+WT3iL._AC_SY200_.jpg",
+      "duration": "323.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71gwmu0UtbL._AC_SY200_.jpg",
+      "duration": "326.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/41WsQGRAp5L._AC_SY200_.jpg",
+      "duration": "454.70"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81BrD6Y4ieL._AC_SY200_.jpg",
+      "duration": "458.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71TVQQkpGzL._AC_SY200_.jpg",
+      "duration": "477.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/616klipzdtL._AC_SY200_.jpg",
+      "duration": "480.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81nhYEdpE2L._AC_SY200_.jpg",
+      "duration": "479.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71SIrTPuP7L._AC_SY200_.jpg",
+      "duration": "485.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61YpntUyfQL._AC_SY200_.jpg",
+      "duration": "524.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/619XRJY+bFL._AC_SY200_.jpg",
+      "duration": "527.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/511Bg8C-QZL._AC_SY200_.jpg",
+      "duration": "547.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/716zqK+Q6CL._AC_SY200_.jpg",
+      "duration": "551.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/7136IgUgVfL._AC_SY200_.jpg",
+      "duration": "554.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/8164hqM3exL._AC_SY200_.jpg",
+      "duration": "554.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81qk8HoJ1PL._AC_SY200_.jpg",
+      "duration": "587.70"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61lxpudqRpL._AC_SY200_.jpg",
+      "duration": "590.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61XQrIKPOlL._AC_SY200_.jpg",
+      "duration": "603.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71LIFg6xi2L._AC_SY200_.jpg",
+      "duration": "602.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71ibuqUDs-L._AC_SY200_.jpg",
+      "duration": "607.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71VfUfcpU5L._AC_SY200_.jpg",
+      "duration": "617.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81kaLB9OCBL._AC_SY200_.jpg",
+      "duration": "671.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71KrZSUkyDL._AC_SY200_.jpg",
+      "duration": "672.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81tpKk1X1ML._AC_SY200_.jpg",
+      "duration": "674.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71OMzvCrU4L._AC_SY200_.jpg",
+      "duration": "676.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71Pr9zAYkdL._AC_SY200_.jpg",
+      "duration": "679.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71rWVSVyoNL._AC_SY200_.jpg",
+      "duration": "684.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81gewut4vaL._AC_SY200_.jpg",
+      "duration": "735.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81gu2dFpntL._AC_SY200_.jpg",
+      "duration": "737.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81UfEdvf2kL._AC_SY200_.jpg",
+      "duration": "738.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61nqNujSF2L._AC_SY200_.jpg",
+      "duration": "740.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71Cgu-PiP6L._AC_SY200_.jpg",
+      "duration": "751.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/913yCtno5EL._AC_SY200_.jpg",
+      "duration": "752.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/51JFEzb-9+L._AC_SY200_.jpg",
+      "duration": "790.70"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71HUNCsDlaL._AC_SY200_.jpg",
+      "duration": "851.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81f2MlFXx0L._AC_SY200_.jpg",
+      "duration": "799.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61YO+aQShHL._AC_SY200_.jpg",
+      "duration": "850.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81GjLmcRCYL._AC_SY200_.jpg",
+      "duration": "864.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71prgbbd+9L._AC_SY200_.jpg",
+      "duration": "862.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/814WEkpf3-L._AC_SY200_.jpg",
+      "duration": "865.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81mm70fmJ+L._AC_SY200_.jpg",
+      "duration": "870.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81ckgHGO3WL._AC_SY200_.jpg",
+      "duration": "905.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81pobbCTbZL._AC_SY200_.jpg",
+      "duration": "932.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81WnIODiwbL._AC_SY200_.jpg",
+      "duration": "960.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71sDWoLhhaL._AC_SY200_.jpg",
+      "duration": "933.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81rRZeINBhL._AC_SY200_.jpg",
+      "duration": "960.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81bpKKv68-L._AC_SY200_.jpg",
+      "duration": "956.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/51hSkgFqVqL._AC_SY200_.jpg",
+      "duration": "960.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81VFxtM7vvL._AC_SY200_.jpg",
+      "duration": "992.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81Ao00oVFDL._AC_SY200_.jpg",
+      "duration": "988.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71I2r88GXhL._AC_SY200_.jpg",
+      "duration": "1015.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/714T+0jI-fL._AC_SY200_.jpg",
+      "duration": "1016.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71Iwj1RwoxL._AC_SY200_.jpg",
+      "duration": "1016.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71wm42EtoNL._AC_SY200_.jpg",
+      "duration": "1019.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61bAqtzJ8VL._AC_SY200_.jpg",
+      "duration": "1044.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71+JuHErJIL._AC_SY200_.jpg",
+      "duration": "1049.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71FUmuHSNoL._AC_SY200_.jpg",
+      "duration": "1085.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61+UlXddzxL._AC_SY200_.jpg",
+      "duration": "1086.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71hYbAifNoL._AC_SY200_.jpg",
+      "duration": "1086.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61QUnNERbIL._AC_SY200_.jpg",
+      "duration": "1087.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61IM+k4lmQL._AC_SY200_.jpg",
+      "duration": "1098.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/719wrHvyyDL._AC_SY200_.jpg",
+      "duration": "1103.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81x8s9tASsL._AC_SY200_.jpg",
+      "duration": "1181.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71uj3g0flUL._AC_SY200_.jpg",
+      "duration": "1143.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71DxWxvCwlL._AC_SY200_.jpg",
+      "duration": "1162.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/718tBdzFF6L._AC_SY200_.jpg",
+      "duration": "1162.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81Mb+wFuOML._AC_SY200_.jpg",
+      "duration": "1181.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71SEZvg1spL._AC_SY200_.jpg",
+      "duration": "1181.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81WuG6lQuDL._AC_SY200_.jpg",
+      "duration": "1206.70"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71IAHgyb78L._AC_SY200_.jpg",
+      "duration": "1212.70"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/51cpWg2Ay7L._AC_SY200_.jpg",
+      "duration": "1212.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71K00r5z4iL._AC_SY200_.jpg",
+      "duration": "1233.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71sKt-dFWWL._AC_SY200_.jpg",
+      "duration": "1230.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71QPduoKd1L._AC_SY200_.jpg",
+      "duration": "1240.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61TGq9hHOKL._AC_SY200_.jpg",
+      "duration": "1271.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71G8rdQin3L._AC_SY200_.jpg",
+      "duration": "1273.70"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/51-h2oz-PeL._AC_SY200_.jpg",
+      "duration": "1273.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/512L0kFUpWL._AC_SY200_.jpg",
+      "duration": "1308.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61dd3mT2foL._AC_SY200_.jpg",
+      "duration": "1305.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/618mxQZWt1L._AC_SY200_.jpg",
+      "duration": "1308.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71KH4jIuyCL._AC_SY200_.jpg",
+      "duration": "1325.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/91MTW21x7pL._AC_SY200_.jpg",
+      "duration": "1326.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81yeSy2PbtL._AC_SY200_.jpg",
+      "duration": "1326.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/811WmfX3hLL._AC_SY200_.jpg",
+      "duration": "1373.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71tpOZEW0eL._AC_SY200_.jpg",
+      "duration": "1372.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/7170px9vGUL._AC_SY200_.jpg",
+      "duration": "1377.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81TbrZM7s1L._AC_SY200_.jpg",
+      "duration": "1484.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/41Dz7KzIs6L._AC_SY200_.jpg",
+      "duration": "1482.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71kHwy9jklL._AC_SY200_.jpg",
+      "duration": "1484.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81rd6KVToCL._AC_SY200_.jpg",
+      "duration": "1560.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/815FWesbK3L._AC_SY200_.jpg",
+      "duration": "1557.60"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81yj+PUYVxL._AC_SY200_.jpg",
+      "duration": "1560.70"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81Rz9l29NiL._AC_SY200_.jpg",
+      "duration": "1567.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81mIz5vLAfL._AC_SY200_.jpg",
+      "duration": "1566.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81AHTyq2wVL._AC_SY200_.jpg",
+      "duration": "1569.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/91dxlQQXeEL._AC_SY200_.jpg",
+      "duration": "1607.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/91yskyVPAmL._AC_SY200_.jpg",
+      "duration": "1612.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81VP91WWhSL._AC_SY200_.jpg",
+      "duration": "1619.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/9101MLPcFTL._AC_SY200_.jpg",
+      "duration": "1628.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81OkWjcf4WL._AC_SY200_.jpg",
+      "duration": "1625.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/91ulu+khYLL._AC_SY200_.jpg",
+      "duration": "1628.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/91UN+1U66JL._AC_SY200_.jpg",
+      "duration": "1666.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/611S+LSupKL._AC_SY200_.jpg",
+      "duration": "1680.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81qsstEtrgL._AC_SY200_.jpg",
+      "duration": "1681.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71c+ReofeoL._AC_SY200_.jpg",
+      "duration": "1686.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/91sx29fiXTL._AC_SY200_.jpg",
+      "duration": "1689.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81uv7QtqJ0L._AC_SY200_.jpg",
+      "duration": "1692.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/818PqOiT44L._AC_SY200_.jpg",
+      "duration": "1717.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61Wxab6R32L._AC_SY200_.jpg",
+      "duration": "1744.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61JogB0dB2L._AC_SY200_.jpg",
+      "duration": "1745.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81YYStQvnsL._AC_SY200_.jpg",
+      "duration": "1748.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/917iVfhEhxL._AC_SY200_.jpg",
+      "duration": "1751.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/917Bc9C1MlL._AC_SY200_.jpg",
+      "duration": "1756.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81mpSoJzv4L._AC_SY200_.jpg",
+      "duration": "1759.40"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/I/41E+AXZvsiL.css?xcp",
+      "duration": "176.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/51H+w5RtFoL._SX1500_.jpg",
+      "duration": "1518.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61OdzZqmXyL._SX1500_.jpg",
+      "duration": "1525.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61G29jrlHbL._SX1500_.jpg",
+      "duration": "1550.20"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/51RPiINhM7L._SX1500_.jpg",
+      "duration": "1546.40"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61+zFXn-ZUL._SX1500_.jpg",
+      "duration": "1602.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61lwJy4B8PL._SX3000_.jpg",
+      "duration": "1597.90"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81KkrQWEHIL._SX3000_.jpg",
+      "duration": "1695.00"
+    },
+    {
+      "name": "https://unagi-na.amazon.com/1/events/com.amazon.csm.nexusclient.prod",
+      "duration": "1006.70"
+    },
+    {
+      "name": "https://www.amazon.com/portal-migration/hz/glow/get-rendered-toaster?pageType=Gateway&aisTransitionState=null&rancorLocationSource=IP_GEOLOCATION&_=1743149702975",
+      "duration": "1008.60"
+    },
+    {
+      "name": "https://www.amazon.com/cross_border_interstitial_sp/render",
+      "duration": "1008.50"
+    },
+    {
+      "name": "https://completion.amazon.com/api/2017/suggestions",
+      "duration": "1032.40"
+    },
+    {
+      "name": "https://www.amazon.com/empty.gif?1743149703020",
+      "duration": "1347.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/81rSh93nJ-L._SX3000_.jpg",
+      "duration": "232.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61E6kSFYofL._SX3000_.jpg",
+      "duration": "117.10"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/71Ie3JXGfVL._SX3000_.jpg",
+      "duration": "122.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/61zAjw4bqPL._SX3000_.jpg",
+      "duration": "84.80"
+    },
+    {
+      "name": "https://www.amazon.com/rd/uedata?ld&v=0.308518.0&id=P6XMJ4E6NX7R59R70SZB&sw=1280&sh=720&vw=1263&vh=720&m=1&sc=P6XMJ4E6NX7R59R70SZB&ue=4&bb=608&ns=632&ne=682&be=778&cf=894&fcp=816&fp=816&af=1274&fn=1274&pc=3726&tc=-1604&na_=-1604&ul_=-1743149700970&_ul=-1743149700970&rd_=-1743149700970&_rd=-1743149700970&fe_=-1603&lk_=-1598&_lk=-1552&co_=-1312&_co=-1066&sc_=-1311&rq_=-1065&rs_=-20&_rs=524&dl_=-7&di_=901&de_=902&_de=902&_dc=3726&ld_=3726&_ld=-1743149700970&ntd=-1&ty=0&rc=0&hob=2&hoe=4&ld=3727&t=1743149704697&ctb=1&rt=cf:10-0-3-7-2-0-1_af:59-3-3-52-2-0-1_ld:271-8-4-253-6-0-1&csmtags=aui|aui:aui_build_date:3.25.1-2025-03-20|navbar|FWCIMEnabled|fls-na-amazon-com|cf_cdn_fr|cf_cdn_mp|gwCFImgNoCache|aui:sw:page_proxy:no_ctrl|adblk_no|fourColumn|threeColumnRevised|flexLayout|cssGridLayout|aui:css:network|aui:js:network|aui:ajax&viz=visible:3&pty=Gateway&spty=desktop&pti=desktop&tid=P6XMJ4E6NX7R59R70SZB&aftb=1&lob=1",
+      "duration": "279.70"
+    },
+    {
+      "name": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:144-5663924-6239067:P6XMJ4E6NX7R59R70SZB$uedata=s:%2Frd%2Fuedata%3Fld%26v%3D0.308518.0%26id%3DP6XMJ4E6NX7R59R70SZB%26sw%3D1280%26sh%3D720%26vw%3D1263%26vh%3D720%26m%3D1%26sc%3DP6XMJ4E6NX7R59R70SZB%26ue%3D4%26bb%3D608%26ns%3D632%26ne%3D682%26be%3D778%26cf%3D894%26fcp%3D816%26fp%3D816%26af%3D1274%26fn%3D1274%26pc%3D3726%26tc%3D-1604%26na_%3D-1604%26ul_%3D-1743149700970%26_ul%3D-1743149700970%26rd_%3D-1743149700970%26_rd%3D-1743149700970%26fe_%3D-1603%26lk_%3D-1598%26_lk%3D-1552%26co_%3D-1312%26_co%3D-1066%26sc_%3D-1311%26rq_%3D-1065%26rs_%3D-20%26_rs%3D524%26dl_%3D-7%26di_%3D901%26de_%3D902%26_de%3D902%26_dc%3D3726%26ld_%3D3726%26_ld%3D-1743149700970%26ntd%3D-1%26ty%3D0%26rc%3D0%26hob%3D2%26hoe%3D4%26ld%3D3727%26t%3D1743149704697%26ctb%3D1%26rt%3Dcf%3A10-0-3-7-2-0-1_af%3A59-3-3-52-2-0-1_ld%3A271-8-4-253-6-0-1%26csmtags%3Daui%7Caui%3Aaui_build_date%3A3.25.1-2025-03-20%7Cnavbar%7CFWCIMEnabled%7Cfls-na-amazon-com%7Ccf_cdn_fr%7Ccf_cdn_mp%7CgwCFImgNoCache%7Caui%3Asw%3Apage_proxy%3Ano_ctrl%7Cadblk_no%7CfourColumn%7CthreeColumnRevised%7CflexLayout%7CcssGridLayout%7Caui%3Acss%3Anetwork%7Caui%3Ajs%3Anetwork%7Caui%3Aajax%26viz%3Dvisible%3A3%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3DP6XMJ4E6NX7R59R70SZB%26aftb%3D1%26lob%3D1:3738",
+      "duration": "294.10"
+    },
+    {
+      "name": "https://images-na.ssl-images-amazon.com/images/I/216YVwoRFDL.js",
+      "duration": "60.80"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/313wAT6Iy2L._SY160_.jpg",
+      "duration": "2.50"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/21W7-lndINL._SY75_.jpg",
+      "duration": "1.00"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/21B-NkA9p-L._SY75_.jpg",
+      "duration": "1.30"
+    },
+    {
+      "name": "https://m.media-amazon.com/images/I/217GQ1a2QzL._SY75_.jpg",
+      "duration": "1.30"
+    }
+  ],
+  "pageLoadTime": 5562.8038
+}
